@@ -10,8 +10,8 @@ export default function Home() {
         <title>Joyprokash Chakrabarty</title>
         <link rel="icon" href="/favicon.ico" />
         <meta charset="UTF-8" />
-        <meta name="description" content="A Sr. Software Engineer Specializes in Full-Stack development" />
-        <meta name="keywords" content="Developer in Dhaka, Upwork, linkedin, Developer, Backend Development, Web developer, Web developer in Dhaka,WordPress,Woocommerce,WordPress Plugin" />
+        <meta name="description" content="A Sr. Software Engineer Specializes in Full-Stack development. I have expertise in PHP, Laravel, NextJs, Mysql, Mongo DB, Python, WordPress, Dot Net Core,  Azure DevOps" />
+        <meta name="keywords" content="Developer in Dhaka, Upwork, linkedin, Developer, Backend Development, Web developer, Web developer in Dhaka,WordPress,Woocommerce,WordPress Plugin, Jpyprokash, Joy, Joyprokash Chakrabarty, Developer In Sylhet, Sylhety Developer" />
         <meta name="author" content="Joyprokash Chakrabarty" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
